@@ -1,0 +1,1 @@
+  bumhee  2884  2883   0 08:17:38 vt/4        0:00 sh -c ps -ef | grep han > han.txt
